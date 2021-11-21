@@ -6,7 +6,7 @@ var options = {
     useNewUrlParser: true
 }
 
-mongoose.connect('mongodb+srv://david:hgm4lRQq8QM1p3P8@cluster0-9xbpy.mongodb.net/mymovizapp?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://adminVal:LaCapsule@cluster0.gqhxe.mongodb.net/mymovizapp?retryWrites=true&w=majority',
     options,
     function(err){
         console.log(err)
